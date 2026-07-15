@@ -1,17 +1,17 @@
-# 📊 Superstore Sales Dashboard (Excel)
+# 📊 Superstore Sales Dashboard using Microsoft Excel
 
-## Project Overview
-This project analyzes Superstore sales data using Microsoft Excel to provide business insights through an interactive dashboard.
+## 📌 Project Overview
+This project analyzes Superstore sales data using Microsoft Excel. The dashboard provides interactive insights into sales, profit, orders, and regional performance.
 
-## Tools Used
+## 🛠️ Tools Used
 - Microsoft Excel
 - Pivot Tables
 - Pivot Charts
 - Slicers
 - Conditional Formatting
-- KPIs
+- KPI Cards
 
-## Features
+## 📈 Dashboard Features
 - Total Sales KPI
 - Total Profit KPI
 - Total Orders KPI
@@ -19,16 +19,21 @@ This project analyzes Superstore sales data using Microsoft Excel to provide bus
 - Sales by Category
 - Profit by Region
 - Sales by Segment
-- State-wise Sales Analysis
+- State-wise Analysis
 - Interactive Slicers
 
-## Dashboard Preview
+## 🖼️ Dashboard Preview
 
-(Add your dashboard screenshot here)
+![Dashboard](dashboard.png)
 
-## Skills Demonstrated
+## 📂 Files Included
+- superstore-sales-dashboard.xlsx
+- dashboard.png
+- README.md
+
+## 🎯 Skills Demonstrated
 - Data Cleaning
 - Data Analysis
 - Dashboard Design
-- Business Reporting
 - Data Visualization
+- Business Reporting
